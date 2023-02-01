@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lab1A-RockPaperScissors</string>
+
+    <string name="welcomeTextView">Welcome to Rock-Paper-Scissors!</string>
+    <string name="instructionTextView">Please choose your weapon: </string>
+
+    <string name="rockButton">ROCK</string>
+    <string name="paperButton">PAPER</string>
+    <string name="scissorsButton">SCISSORS</string>
+
+    <string name="scoreboardTextView">Player: %d, Computer: %d</string>
+
+    <string name="playerWeaponTextView">Player\'s weapon: %s</string>
+    <string name="computerWeaponTextView">Computer\'s weapon: %s</string>
+
+    <string name="userWinsTextView">Player wins ... </string>
+    <string name="tieTextView">It\'s a tie!</string>
+    <string name="computerWinsTextView">Computer wins ... </string>
+
+    <string name="rockWins">Rock beats scissors!</string>
+    <string name="paperWins">Paper beats rock!</string>
+    <string name="scissorsWins">Scissors beats paper!</string>
+
+    <string name="winnerTextView" />
+
+    <string-array name="weaponText">
+        <item>ROCK</item>
+        <item>PAPER</item>
+        <item>SCISSORS</item>
+    </string-array>
+
+</resources>
